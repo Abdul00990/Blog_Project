@@ -17,7 +17,7 @@ My procedure behind a "Login and SignUp System with User Authentication Using No
 Throughout the development process, I ensureD that I followed best practices for security, such as using environment variables for sensitive data (like database credentials and secret keys), implementing HTTPS for secure communication, and regularly updating dependencies to address potential vulnerabilities. Additionally,I  tested my application thoroughly, including user interface testing and edge case scenarios.
 
 
-/////////////////////////////////////////////////////////////////////////////// procedure behind building a "Markdown Blog using Node.js, MongoDB, and Express" project //////////////////////////////////////////////////////////////////////////
+/////////////////////////////// procedure behind building a "Markdown Blog using Node.js, MongoDB, and Express" project //////////////////////////////
 
 
 
