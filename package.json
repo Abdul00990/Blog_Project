@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dompurify": "^3.1.0",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "jsdom": "^24.0.0",
+    "marked": "^12.0.2",
+    "method": "^2.0.0",
+    "mongoose": "^8.3.2",
+    "override": "^0.0.1",
+    "slugify": "^1.6.6",
+    "syntax-error": "^1.4.0"
+  },
+  "name": "blog-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "scripts": {
+    "devStart": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
